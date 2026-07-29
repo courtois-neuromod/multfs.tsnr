@@ -1,0 +1,1 @@
+ab5d318d-b678-4e5e-be98-af38b8aef038 autoenable=true bucket=cneuromod.multfs.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.multfs.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353018s
